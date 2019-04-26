@@ -4,7 +4,7 @@ Blog Post and project 4 for Udacity's Data Scientist Nanodegree
 
 ## Overview
 
-This project is available as a [blog post](https://bvcmartins.github.io)
+This project is available as a [blog post](https://bvcmartins.github.io/jekyll/update/2019/04/23/airbnb.html)
 
 Airbnb, through Kaggle, provided us with a dataset covering all activity
 in Boston and Seattle for one year. Based on this information we asked the
@@ -29,6 +29,11 @@ following learning methods were used:
 - PCA
 - K-means 
 - Latent Dirichlet Analysis
+
+## Files
+
+* airbnb_project.ipynb has the full solution
+* airbnb_exploratory.ipynb was used for prototyping
 
 ## Conclusions
 
